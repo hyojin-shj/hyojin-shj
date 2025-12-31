@@ -38,7 +38,7 @@
 - 랜덤 뽑기 게임 "Random nail" 토이프로젝트 제작
 - openai api tools 기능 활용 "openai project"앱 제작
 - 개인 갤러리 웹 페이지 "rita's artwork"웹 페이지 제작
-- 우리 FISA AI 엔지니얼이 6기 참여중
+- 우리 FISA AI 엔지니어링 6기 참여중
 
 ---
 
@@ -52,3 +52,5 @@
 * 🧶crochet
 * 🎮 games
 
+---
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fhyojin-shj&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
