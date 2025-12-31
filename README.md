@@ -31,9 +31,26 @@
 
 ---
 
+## 💻Projects
+- 세종사이버대학교 '코드스파크' 동아리 대표
+- 자율성을 보장한 투두리스트 "SCHEDY" 제작
+- Chrome extension "GPT NoteBook" 제작
+- 랜덤 뽑기 게임 "Random nail" 토이프로젝트 제작
+- openai api tools 기능 활용 "openai project"앱 제작
+- 개인 갤러리 웹 페이지 "rita's artwork"웹 페이지 제작
+- 우리 FISA AI 엔지니얼이 6기 참여중
+
+---
+
 ## 📍SNS
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@아이디)
+<p align="center">
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@shj123)
+</p>
+---
 
+## 🥰 like
+* 💅nailart
+* 🧶crochet
+* 🎮 games
 
-         
