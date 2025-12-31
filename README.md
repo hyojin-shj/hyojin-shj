@@ -37,7 +37,7 @@
 
 ## 💻Projects
 | 제목 | 설명 | 기술 스택 | 역할 |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | SCHEDY | 자유로운 투두리스트 | React, Express, MongoDB,Js | 백엔드&DB구축, QA |
 | GPT NoteBook | GPT 답변저장 및 수정 | Html,Css,Js | 설계.구축.베포 |
 | Random Nail | 네일아트 디자인 랜덤뽑기 | Html,Css,Js | 디자인, js설계, 베포 |
