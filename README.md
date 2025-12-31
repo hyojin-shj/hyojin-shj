@@ -31,9 +31,8 @@
 
 ---
 
-## 📍status
- * 🏫 : 2017~2022 강원대학교 동물응용공학과
- 
-  2025~2026 세종사이버대학교 소프트웨어학과
+## 📍SNS
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@아이디)
+
 
          
