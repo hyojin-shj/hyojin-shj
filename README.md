@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
+---
+
 ## 💡solved
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="http://mazandi.herokuapp.com/api?handle=simyo&theme=warm"/>
@@ -27,9 +29,10 @@
   </a>
 </div>
 
+---
 
 ## 📍status
-<div style="display: flex; justify-content: center; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyojin-shj&show_icons=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyojin-shj&layout=compact" height="180px"/>
-</div>
+ * 🏫 : 2017~2022 강원대학교 동물응용공학과
+  2025~2026 세종사이버대학교 소프트웨어학과
+
+         
