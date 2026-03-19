@@ -25,15 +25,6 @@
 
 ---
 
-## 💡solved
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="http://mazandi.herokuapp.com/api?handle=simyo&theme=warm"/>
-  <a href="https://solved.ac/simyo">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=simyo"/>
-  </a>
-</div>
-
----
 
 ## 💻Projects
 | 제목 | 설명 | 기술 스택 | 역할 |
