@@ -4,7 +4,7 @@
 <br>
 
 ## 🛠 Tech Stack
-🔤 Languages
+### 🔤 Languages
 <p>
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
@@ -14,12 +14,20 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🧠 AI & Data Engineering
+### 🧠 AI & MLOps
 <p>
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white" />
 <img src="https://img.shields.io/badge/LM%20Studio-5F5BD7?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 🔍 Data Search & Visualization (ELK Stack)
+<p>
+<img src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Logstash-%23005571.svg?style=for-the-badge&logo=logstash&logoColor=white" />
+<img src="https://img.shields.io/badge/Kibana-%23005571.svg?style=for-the-badge&logo=kibana&logoColor=white" />
 </p>
 
 ### 🐳 DevOps & Infrastructure
@@ -33,7 +41,9 @@
 ### 💾 Database & Frameworks
 <p>
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
 <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
 </p>
 ---
